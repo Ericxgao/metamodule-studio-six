@@ -1,0 +1,88 @@
+{
+    "MetaModulePluginMaintainer": "oksami",
+    "MetaModulePluginMaintainerEmail": "itsoksami@gmail.com",
+    "MetaModulePluginMaintainerUrl": "https://github.com/StudioSixPlusOne/rack-modules",
+    "MetaModuleDescription": "Studio Six Plus One for MetaModule",
+    "MetaModuleIncludedModules": [
+        {
+            "slug": "KSDelay",
+            "name": "Wallenda"
+        },
+        {
+            "slug": "Maccomo",
+            "name": "Maccomo"
+        },
+        {
+            "slug": "PolyShiftRegister",
+            "name": "Tyrant"
+        },
+        {
+            "slug": "CombFilter",
+            "name": "Massarti"
+        },
+        {
+            "slug": "LaLa",
+            "name": "LaLa"
+        },
+        {
+            "slug": "Eva",
+            "name": "Eva"
+        },
+        {
+            "slug": "Zazel",
+            "name": "Zazel"
+        },
+        {
+            "slug": "Zilah",
+            "name": "Zilah"
+        },
+        {
+            "slug": "Iverson",
+            "name": "Iverson"
+        },
+        {
+            "slug": "IversonJr",
+            "name": "IversonJr"
+        },
+        {
+            "slug": "Amburgh",
+            "name": "Amburgh"
+        },
+        {
+            "slug": "Hula",
+            "name": "Hula"
+        },
+        {
+            "slug": "Bascom",
+            "name": "Bascom"
+        },
+        {
+            "slug": "Mix",
+            "name": "Mix"
+        },
+        {
+            "slug": "Bose",
+            "name": "Bose"
+        },
+        {
+            "slug": "Duffy",
+            "name": "Duffy"
+        },
+        {
+            "slug": "Farini",
+            "name": "Farini"
+        },
+        {
+            "slug": "LalaStereo",
+            "name": "LalaStereo"
+        },
+        {
+            "slug": "Thru",
+            "name": "Thru"
+        },
+        {
+            "slug": "PatchNotes",
+            "name": "PatchNotes"
+        }
+    ]
+}

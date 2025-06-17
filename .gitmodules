@@ -1,0 +1,3 @@
+[submodule "rack-modules"]
+	path = rack-modules
+	url = https://github.com/Ericxgao/rack-modules.git
